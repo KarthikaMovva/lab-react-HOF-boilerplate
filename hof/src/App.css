@@ -1,0 +1,35 @@
+.one{
+    color: blue;
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 500px;
+}
+.display{
+    margin-left: 20px;
+}
+.two{
+    color: blue;
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 500px;
+}
+.three{
+    color: blue;
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 500px;
+}
+.four{
+    color: blue;
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 500px;
+}
+.five{
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 500px;
+}
+h2{
+    text-align: center;
+}
